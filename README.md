@@ -1,7 +1,4 @@
-# Low Level System Design - Cab booking like Uber/Ola/Grab etc.
-
-### Problem Statement
-[Check here](problem-statment.md)
+# System Design for Cab booking like Uber/Ola.
 
 ### Project Requirements
 
@@ -10,4 +7,3 @@
 * For Unit Tests:  
   * Junit 4
   * Mockito
-
